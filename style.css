@@ -31,3 +31,11 @@ p{
   margin: 3px 0;
   font-size: 17px;
 }
+
+.brown-text {
+  color: brown;
+}
+
+.blue-text {
+  color: blue;
+}
